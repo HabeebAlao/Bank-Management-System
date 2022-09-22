@@ -1,0 +1,4 @@
+57064:(18-Dec-21, IN, 100, 100.0, transfer from 21638)
+88503:(18-Dec-21, IN, 2323.0, 2323.0, deposit), (18-Dec-21, IN, 7474.0, 9797.0, deposit), (18-Dec-21, OUT, 546.0, 9251.0, withdrawal), (18-Dec-21, IN, 21638.0, 30889.0, deposit)
+21638:(18-Dec-21, IN, 34245.0, 34245.0, deposit), (18-Dec-21, OUT, 100, 34145.0, transfer)
+16760:...
